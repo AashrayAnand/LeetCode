@@ -13,7 +13,9 @@
 
 [101. Symmetric Tree](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p101.cpp)
 
-[222. Count Complete Tree Nodes](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p222.cpp)
+[222. Count Complete Tree Nodes (recursive)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p222.cpp)
+
+[222. Count Complete Tree Nodes (iterative)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p222iterative.cpp)
 
 [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p1315.cpp)
 
