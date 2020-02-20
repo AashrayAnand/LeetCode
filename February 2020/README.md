@@ -2,6 +2,8 @@
 
 ***General Problem Solving***
 
+[15. 3Sum](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p15.cpp)
+
 [11. Container With Most Water](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p11.cpp)
 
 [1221. Split a String in Balanced Strings](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p1221.cpp)
