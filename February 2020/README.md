@@ -8,9 +8,9 @@
 
 [1221. Split a String in Balanced Strings](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p1221.cpp)
 
-[238. Product of Array Except Self (binary recursive)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p1221recursive.cpp)
+[238. Product of Array Except Self (binary recursive)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p238recursive.cpp)
 
-[238. Product of Array Except Self (optimal iterative)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p1221iterative.cpp)
+[238. Product of Array Except Self (optimal iterative)](https://github.com/AashrayAnand/LeetCode/blob/master/February%202020/p238iterative.cpp)
 
 ***Searching/Sorting***
 
